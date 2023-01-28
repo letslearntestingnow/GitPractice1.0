@@ -9,5 +9,6 @@ public class TestSuite extends BaseTest
     void praticeTest()
     {
         System.out.println("Practicing Git");
+        System.out.println("Practicing Git 2");
     }
 }
